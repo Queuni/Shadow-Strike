@@ -1,2 +1,4 @@
 # config
 
+
+# Bump the dependency to fix the compatibility issue with Python 3.12
