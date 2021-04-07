@@ -49,3 +49,5 @@ Additional use of Unity IK rigging and HDRP (sky and volumetric fog).
 - `Assets/!Tools` — Wave controller, weapon adder, sound manager
 - `Assets/Scenes` — Game and menu scenes
 
+
+- Adjust the default concurrency limit based on load test results
