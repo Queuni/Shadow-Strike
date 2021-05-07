@@ -6,3 +6,5 @@
 # Correct the default path used when no config file is specified
 
 # Remove hardcoded credentials and move to env-based configuration
+
+# Clean up the TODO comments that were already addressed

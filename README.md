@@ -51,3 +51,5 @@ Additional use of Unity IK rigging and HDRP (sky and volumetric fog).
 
 
 - Adjust the default concurrency limit based on load test results
+
+- Handle the duplicate key case by merging the values instead of failing

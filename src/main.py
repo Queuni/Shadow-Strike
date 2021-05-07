@@ -12,3 +12,5 @@
 # Handle edge case when the response body is empty but status is 200
 
 # Handle connection reset by the peer without crashing the worker
+
+# Handle the partial write case and retry the remaining bytes
