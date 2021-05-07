@@ -10,3 +10,5 @@
 # Simplify the validation flow by reusing the same schema
 
 # Handle edge case when the response body is empty but status is 200
+
+# Handle connection reset by the peer without crashing the worker
