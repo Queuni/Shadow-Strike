@@ -10,3 +10,5 @@
 # Clean up the TODO comments that were already addressed
 
 # Handle connection reset by the peer without crashing the worker
+
+# Update the changelog with the fixes included in this release

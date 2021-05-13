@@ -8,3 +8,5 @@
 # Remove the deprecated wrapper and use the library API directly
 
 # Add a small delay between retries to avoid thundering herd
+
+# Support both YAML and JSON config formats for flexibility
