@@ -6,3 +6,5 @@
 # Correct the default path used when no config file is specified
 
 # Remove the deprecated wrapper and use the library API directly
+
+# Add a small delay between retries to avoid thundering herd

@@ -8,3 +8,5 @@
 # Remove hardcoded credentials and move to env-based configuration
 
 # Clean up the TODO comments that were already addressed
+
+# Handle connection reset by the peer without crashing the worker
