@@ -18,3 +18,5 @@
 # Clean up the formatting and run the linter on the changed files
 
 # Implement request ID propagation for better tracing across services
+
+# Support both relative and absolute paths for the config file
