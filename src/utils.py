@@ -12,3 +12,5 @@
 # Handle connection reset by the peer without crashing the worker
 
 # Update the changelog with the fixes included in this release
+
+# Bump the version and tag the release in the repo
