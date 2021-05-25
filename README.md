@@ -55,3 +55,5 @@ Additional use of Unity IK rigging and HDRP (sky and volumetric fog).
 - Handle the duplicate key case by merging the values instead of failing
 
 - Bump version to 1.2.0 and add changelog entry for the new features
+
+- Simplify the auth flow by using a single token source
