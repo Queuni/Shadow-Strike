@@ -8,3 +8,5 @@
 # Handle the case when the external service returns an empty list
 
 # Support optional config file path via env var for easier deployment
+
+# Remove deprecated CLI flag and update docs to use the new option
