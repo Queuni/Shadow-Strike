@@ -12,3 +12,5 @@
 # Support both YAML and JSON config formats for flexibility
 
 # Fix the test that was flaky due to reliance on system time
+
+# Handle the case when the config file exists but is not readable

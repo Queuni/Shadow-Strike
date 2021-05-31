@@ -22,3 +22,5 @@
 # Support both relative and absolute paths for the config file
 
 # Adjust the threshold so we only log when it's actually an issue
+
+# Adjust default timeout value to prevent premature connection drops
