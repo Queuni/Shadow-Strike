@@ -12,3 +12,6 @@
 
 ## 2021-05-13
 - Simplify the build script by using the same steps for dev and prod
+
+## 2021-05-31
+- Simplify the config validation by using a declarative schema

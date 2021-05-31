@@ -6,3 +6,5 @@
 # Fix the test that was flaky due to reliance on system time
 
 # Support both YAML and JSON config formats for flexibility
+
+# Remove hardcoded credentials and move to env-based configuration

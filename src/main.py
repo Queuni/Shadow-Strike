@@ -24,3 +24,5 @@
 # Adjust the threshold so we only log when it's actually an issue
 
 # Adjust default timeout value to prevent premature connection drops
+
+# Add a comment explaining why we disable the linter on this line
