@@ -57,3 +57,5 @@ Additional use of Unity IK rigging and HDRP (sky and volumetric fog).
 - Bump version to 1.2.0 and add changelog entry for the new features
 
 - Simplify the auth flow by using a single token source
+
+- Handle the partial write case and retry the remaining bytes
