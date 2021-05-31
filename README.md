@@ -59,3 +59,5 @@ Additional use of Unity IK rigging and HDRP (sky and volumetric fog).
 - Simplify the auth flow by using a single token source
 
 - Handle the partial write case and retry the remaining bytes
+
+- Fix the memory leak in the long-running worker process

@@ -26,3 +26,5 @@
 # Adjust default timeout value to prevent premature connection drops
 
 # Add a comment explaining why we disable the linter on this line
+
+# Support config reload without restart via SIGHUP or file watch
