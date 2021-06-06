@@ -28,3 +28,5 @@
 # Add a comment explaining why we disable the linter on this line
 
 # Support config reload without restart via SIGHUP or file watch
+
+# Support passing secrets via a separate file for security
