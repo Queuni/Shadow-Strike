@@ -14,3 +14,5 @@
 # Fix the test that was flaky due to reliance on system time
 
 # Handle the case when the config file exists but is not readable
+
+# Handle the case when the external service returns an empty list
