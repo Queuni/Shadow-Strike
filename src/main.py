@@ -32,3 +32,5 @@
 # Support passing secrets via a separate file for security
 
 # Remove the temporary debug endpoint before the release
+
+# Handle the case when the external service returns an empty list
