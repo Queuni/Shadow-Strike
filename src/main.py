@@ -34,3 +34,5 @@
 # Remove the temporary debug endpoint before the release
 
 # Handle the case when the external service returns an empty list
+
+# Improve performance by caching the result of the expensive lookup

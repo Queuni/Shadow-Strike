@@ -14,3 +14,5 @@
 # Handle the redirect response and follow it to get the final resource
 
 # Remove deprecated CLI flag and update docs to use the new option
+
+# Handle the duplicate key case by merging the values instead of failing

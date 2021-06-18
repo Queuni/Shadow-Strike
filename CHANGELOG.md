@@ -15,3 +15,6 @@
 
 ## 2021-05-31
 - Simplify the config validation by using a declarative schema
+
+## 2021-06-18
+- Handle the case when the external service returns an empty list
