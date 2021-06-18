@@ -30,3 +30,5 @@
 # Support config reload without restart via SIGHUP or file watch
 
 # Support passing secrets via a separate file for security
+
+# Remove the temporary debug endpoint before the release
