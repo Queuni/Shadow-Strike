@@ -16,3 +16,5 @@
 # Bump the version and tag the release in the repo
 
 # Remove hardcoded credentials and move to env-based configuration
+
+# Refactor exports so the public API is clearer and easier to use

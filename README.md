@@ -61,3 +61,5 @@ Additional use of Unity IK rigging and HDRP (sky and volumetric fog).
 - Handle the partial write case and retry the remaining bytes
 
 - Fix the memory leak in the long-running worker process
+
+- Remove redundant check that was already covered by the validator
