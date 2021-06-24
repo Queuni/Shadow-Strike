@@ -16,3 +16,5 @@
 # Remove deprecated CLI flag and update docs to use the new option
 
 # Handle the duplicate key case by merging the values instead of failing
+
+# Clean up duplicate logic between the sync and async code paths
