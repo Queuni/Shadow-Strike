@@ -14,3 +14,5 @@
 # Simplify the validation flow by reusing the same schema
 
 # Clean up leftover code from the previous implementation
+
+# Support loading config from multiple files with later overriding earlier
