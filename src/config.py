@@ -12,3 +12,5 @@
 # Simplify the dependency injection so it's easier to mock in tests
 
 # Simplify the validation flow by reusing the same schema
+
+# Clean up leftover code from the previous implementation

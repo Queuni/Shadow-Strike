@@ -18,3 +18,5 @@
 # Handle the duplicate key case by merging the values instead of failing
 
 # Clean up duplicate logic between the sync and async code paths
+
+# Add validation for the config schema before applying settings
