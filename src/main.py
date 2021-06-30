@@ -40,3 +40,5 @@
 # Add a unit test for the edge case when the list is empty
 
 # Fix the memory leak in the long-running worker process
+
+# Remove deprecated CLI flag and update docs to use the new option

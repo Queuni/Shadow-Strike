@@ -18,3 +18,5 @@
 # Remove hardcoded credentials and move to env-based configuration
 
 # Refactor exports so the public API is clearer and easier to use
+
+# Bump the CI image to use the latest stable runner version
