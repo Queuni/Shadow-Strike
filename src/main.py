@@ -38,3 +38,5 @@
 # Improve performance by caching the result of the expensive lookup
 
 # Add a unit test for the edge case when the list is empty
+
+# Fix the memory leak in the long-running worker process
