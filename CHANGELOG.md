@@ -21,3 +21,6 @@
 
 ## 2021-06-30
 - Clean up the TODO comments that were already addressed
+
+## 2021-06-30
+- Bump the Docker base image to get the latest security patches

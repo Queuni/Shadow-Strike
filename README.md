@@ -65,3 +65,5 @@ Additional use of Unity IK rigging and HDRP (sky and volumetric fog).
 - Remove redundant check that was already covered by the validator
 
 - Implement retry logic for the API client when the remote returns 5xx
+
+- Clean up debug print statements before the release

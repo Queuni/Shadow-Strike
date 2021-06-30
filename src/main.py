@@ -46,3 +46,5 @@
 # Clean up the TODO comments that were already addressed
 
 # Bump the Docker base image to get the latest security patches
+
+# Implement request ID propagation for better tracing across services
