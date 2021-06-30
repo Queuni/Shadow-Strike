@@ -18,3 +18,6 @@
 
 ## 2021-06-18
 - Handle the case when the external service returns an empty list
+
+## 2021-06-30
+- Clean up the TODO comments that were already addressed

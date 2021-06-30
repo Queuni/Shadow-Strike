@@ -20,3 +20,5 @@
 # Clean up duplicate logic between the sync and async code paths
 
 # Add validation for the config schema before applying settings
+
+# Update the API docs with the new query parameters and examples

@@ -44,3 +44,5 @@
 # Remove deprecated CLI flag and update docs to use the new option
 
 # Clean up the TODO comments that were already addressed
+
+# Bump the Docker base image to get the latest security patches
