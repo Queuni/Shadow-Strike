@@ -20,3 +20,5 @@
 # Refactor exports so the public API is clearer and easier to use
 
 # Bump the CI image to use the latest stable runner version
+
+# Improve the default config so it works out of the box for dev

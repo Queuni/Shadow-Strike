@@ -42,3 +42,5 @@
 # Fix the memory leak in the long-running worker process
 
 # Remove deprecated CLI flag and update docs to use the new option
+
+# Clean up the TODO comments that were already addressed
