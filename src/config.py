@@ -18,3 +18,5 @@
 # Support loading config from multiple files with later overriding earlier
 
 # Update documentation to reflect the new API and usage examples
+
+# Implement a simple health check endpoint for the load balancer

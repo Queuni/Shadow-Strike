@@ -24,3 +24,5 @@
 # Improve the default config so it works out of the box for dev
 
 # Fix the memory leak in the long-running worker process
+
+# Support config reload without restart via SIGHUP or file watch

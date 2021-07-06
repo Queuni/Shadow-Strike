@@ -69,3 +69,5 @@ Additional use of Unity IK rigging and HDRP (sky and volumetric fog).
 - Clean up debug print statements before the release
 
 - Handle the partial write case and retry the remaining bytes
+
+- Correct the docstring to match the actual behavior of the function
