@@ -50,3 +50,5 @@
 # Implement request ID propagation for better tracing across services
 
 # Remove the unused parameter that was left from an old refactor
+
+# Fix the memory leak in the long-running worker process

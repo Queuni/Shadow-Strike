@@ -27,3 +27,6 @@
 
 ## 2021-07-06
 - Support both YAML and JSON config formats for flexibility
+
+## 2021-07-06
+- Handle edge case when the response body is empty but status is 200
