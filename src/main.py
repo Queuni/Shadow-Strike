@@ -48,3 +48,5 @@
 # Bump the Docker base image to get the latest security patches
 
 # Implement request ID propagation for better tracing across services
+
+# Remove the unused parameter that was left from an old refactor

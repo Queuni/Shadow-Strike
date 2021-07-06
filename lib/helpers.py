@@ -22,3 +22,5 @@
 # Add validation for the config schema before applying settings
 
 # Update the API docs with the new query parameters and examples
+
+# Adjust timeout and retry settings based on production observations
