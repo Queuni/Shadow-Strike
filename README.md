@@ -67,3 +67,5 @@ Additional use of Unity IK rigging and HDRP (sky and volumetric fog).
 - Implement retry logic for the API client when the remote returns 5xx
 
 - Clean up debug print statements before the release
+
+- Handle the partial write case and retry the remaining bytes
