@@ -24,3 +24,6 @@
 
 ## 2021-06-30
 - Bump the Docker base image to get the latest security patches
+
+## 2021-07-06
+- Support both YAML and JSON config formats for flexibility

@@ -22,3 +22,5 @@
 # Bump the CI image to use the latest stable runner version
 
 # Improve the default config so it works out of the box for dev
+
+# Fix the memory leak in the long-running worker process
