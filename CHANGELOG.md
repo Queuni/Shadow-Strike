@@ -30,3 +30,6 @@
 
 ## 2021-07-06
 - Handle edge case when the response body is empty but status is 200
+
+## 2021-07-06
+- Correct the default value for the feature flag in production

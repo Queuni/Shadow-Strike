@@ -26,3 +26,5 @@
 # Fix the memory leak in the long-running worker process
 
 # Support config reload without restart via SIGHUP or file watch
+
+# Update dependencies and resolve compatibility warning from pytest
