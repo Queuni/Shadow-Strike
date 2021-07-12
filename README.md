@@ -73,3 +73,5 @@ Additional use of Unity IK rigging and HDRP (sky and volumetric fog).
 - Correct the docstring to match the actual behavior of the function
 
 - Clean up debug print statements before the release
+
+- Improve test coverage for the helpers module to above 90%

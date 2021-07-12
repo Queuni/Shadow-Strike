@@ -28,3 +28,5 @@
 # Bump the Docker base image to get the latest security patches
 
 # Simplify the validation flow by reusing the same schema
+
+# Simplify the auth flow by using a single token source
