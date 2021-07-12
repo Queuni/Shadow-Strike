@@ -26,3 +26,5 @@
 # Adjust timeout and retry settings based on production observations
 
 # Bump the Docker base image to get the latest security patches
+
+# Simplify the validation flow by reusing the same schema
