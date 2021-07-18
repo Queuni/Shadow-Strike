@@ -33,3 +33,6 @@
 
 ## 2021-07-06
 - Correct the default value for the feature flag in production
+
+## 2021-07-18
+- Update dependencies and resolve compatibility warning from pytest
