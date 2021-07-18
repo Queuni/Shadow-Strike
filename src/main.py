@@ -52,3 +52,5 @@
 # Remove the unused parameter that was left from an old refactor
 
 # Fix the memory leak in the long-running worker process
+
+# Fix the encoding issue when reading config files with non-ASCII
