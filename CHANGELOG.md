@@ -36,3 +36,6 @@
 
 ## 2021-07-18
 - Update dependencies and resolve compatibility warning from pytest
+
+## 2021-07-30
+- Refactor the parser to use a proper state machine instead of regex

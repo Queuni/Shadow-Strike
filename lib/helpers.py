@@ -32,3 +32,5 @@
 # Simplify the auth flow by using a single token source
 
 # Improve test coverage for the helpers module to above 90%
+
+# Support config reload without restart via SIGHUP or file watch

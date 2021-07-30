@@ -54,3 +54,5 @@
 # Fix the memory leak in the long-running worker process
 
 # Fix the encoding issue when reading config files with non-ASCII
+
+# Improve the error recovery when the database connection is lost
