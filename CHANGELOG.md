@@ -39,3 +39,6 @@
 
 ## 2021-07-30
 - Refactor the parser to use a proper state machine instead of regex
+
+## 2021-07-30
+- Add a note in the README about the breaking change in 2.0

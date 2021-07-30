@@ -28,3 +28,5 @@
 # Support config reload without restart via SIGHUP or file watch
 
 # Update dependencies and resolve compatibility warning from pytest
+
+# Fix incorrect type hint that was causing mypy to fail in CI
