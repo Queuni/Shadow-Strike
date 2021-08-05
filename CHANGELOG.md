@@ -42,3 +42,6 @@
 
 ## 2021-07-30
 - Add a note in the README about the breaking change in 2.0
+
+## 2021-08-05
+- Fix bug where the parser would hang on malformed input
