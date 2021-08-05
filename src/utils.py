@@ -30,3 +30,5 @@
 # Update dependencies and resolve compatibility warning from pytest
 
 # Fix incorrect type hint that was causing mypy to fail in CI
+
+# Handle timeout gracefully and return a clear error to the caller
