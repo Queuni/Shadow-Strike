@@ -56,3 +56,5 @@
 # Fix the encoding issue when reading config files with non-ASCII
 
 # Improve the error recovery when the database connection is lost
+
+# Refactor the data layer to separate read and write paths

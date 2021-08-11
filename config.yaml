@@ -26,3 +26,5 @@
 # Clean up duplicate logic between the sync and async code paths
 
 # Support config reload without restart via SIGHUP or file watch
+
+# Improve the default config so it works out of the box for dev
