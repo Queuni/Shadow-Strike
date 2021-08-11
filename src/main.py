@@ -58,3 +58,5 @@
 # Improve the error recovery when the database connection is lost
 
 # Refactor the data layer to separate read and write paths
+
+# Bump the dependency to fix the compatibility issue with Python 3.12

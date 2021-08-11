@@ -45,3 +45,6 @@
 
 ## 2021-08-05
 - Fix bug where the parser would hang on malformed input
+
+## 2021-08-11
+- Handle the case when the config file exists but is not readable
