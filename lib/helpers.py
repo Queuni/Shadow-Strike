@@ -36,3 +36,5 @@
 # Support config reload without restart via SIGHUP or file watch
 
 # Support optional config file path via env var for easier deployment
+
+# Bump dependency to get the security fix for the reported CVE

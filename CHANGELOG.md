@@ -48,3 +48,6 @@
 
 ## 2021-08-11
 - Handle the case when the config file exists but is not readable
+
+## 2021-08-17
+- Clean up the TODO comments that were already addressed
