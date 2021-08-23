@@ -38,3 +38,5 @@
 # Support optional config file path via env var for easier deployment
 
 # Bump dependency to get the security fix for the reported CVE
+
+# Simplify the config merge logic so overrides are predictable
