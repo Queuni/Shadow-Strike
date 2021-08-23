@@ -51,3 +51,6 @@
 
 ## 2021-08-17
 - Clean up the TODO comments that were already addressed
+
+## 2021-08-23
+- Improve the error recovery when the database connection is lost
