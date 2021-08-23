@@ -34,3 +34,5 @@
 # Handle timeout gracefully and return a clear error to the caller
 
 # Improve the default config so it works out of the box for dev
+
+# Remove the temporary debug endpoint before the release

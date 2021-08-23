@@ -79,3 +79,5 @@ Additional use of Unity IK rigging and HDRP (sky and volumetric fog).
 - Correct the default value for the feature flag in production
 
 - Support passing options through the config file as well as CLI
+
+- Clean up unused imports and fix formatting to match the project style guide

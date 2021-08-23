@@ -54,3 +54,6 @@
 
 ## 2021-08-23
 - Improve the error recovery when the database connection is lost
+
+## 2021-08-23
+- Remove the feature flag now that the feature is fully rolled out
