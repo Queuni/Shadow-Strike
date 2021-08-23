@@ -77,3 +77,5 @@ Additional use of Unity IK rigging and HDRP (sky and volumetric fog).
 - Improve test coverage for the helpers module to above 90%
 
 - Correct the default value for the feature flag in production
+
+- Support passing options through the config file as well as CLI
