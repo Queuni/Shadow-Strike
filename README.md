@@ -81,3 +81,5 @@ Additional use of Unity IK rigging and HDRP (sky and volumetric fog).
 - Support passing options through the config file as well as CLI
 
 - Clean up unused imports and fix formatting to match the project style guide
+
+- Handle the case when the config file exists but is not readable

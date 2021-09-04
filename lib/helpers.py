@@ -40,3 +40,5 @@
 # Bump dependency to get the security fix for the reported CVE
 
 # Simplify the config merge logic so overrides are predictable
+
+# Update the deployment docs with the new environment variables
