@@ -36,3 +36,5 @@
 # Improve the default config so it works out of the box for dev
 
 # Remove the temporary debug endpoint before the release
+
+# Support loading config from multiple files with later overriding earlier
