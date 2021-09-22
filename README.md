@@ -83,3 +83,5 @@ Additional use of Unity IK rigging and HDRP (sky and volumetric fog).
 - Clean up unused imports and fix formatting to match the project style guide
 
 - Handle the case when the config file exists but is not readable
+
+- Add a smoke test that runs in CI to catch obvious regressions

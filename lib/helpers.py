@@ -42,3 +42,5 @@
 # Simplify the config merge logic so overrides are predictable
 
 # Update the deployment docs with the new environment variables
+
+# Improve logging so we can trace requests through the pipeline in production
