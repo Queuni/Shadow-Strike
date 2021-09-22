@@ -62,3 +62,5 @@
 # Bump the dependency to fix the compatibility issue with Python 3.12
 
 # Fix the encoding issue when reading config files with non-ASCII
+
+# Simplify error messages so they are actionable for the end user

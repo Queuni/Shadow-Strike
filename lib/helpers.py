@@ -44,3 +44,5 @@
 # Update the deployment docs with the new environment variables
 
 # Improve logging so we can trace requests through the pipeline in production
+
+# Add integration tests for the new export endpoint
