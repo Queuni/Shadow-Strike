@@ -46,3 +46,5 @@
 # Improve logging so we can trace requests through the pipeline in production
 
 # Add integration tests for the new export endpoint
+
+# Handle the duplicate key case by merging the values instead of failing
