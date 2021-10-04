@@ -64,3 +64,5 @@
 # Fix the encoding issue when reading config files with non-ASCII
 
 # Simplify error messages so they are actionable for the end user
+
+# Bump version to 1.2.0 and add changelog entry for the new features
