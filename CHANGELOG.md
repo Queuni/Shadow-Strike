@@ -57,3 +57,6 @@
 
 ## 2021-08-23
 - Remove the feature flag now that the feature is fully rolled out
+
+## 2021-10-16
+- Fix the encoding issue when reading config files with non-ASCII
