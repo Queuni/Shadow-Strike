@@ -28,3 +28,5 @@
 # Support config reload without restart via SIGHUP or file watch
 
 # Improve the default config so it works out of the box for dev
+
+# Improve test coverage for the helpers module to above 90%

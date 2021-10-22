@@ -22,3 +22,5 @@
 # Implement a simple health check endpoint for the load balancer
 
 # Improve the default config so it works out of the box for dev
+
+# Implement fallback to default value when config key is missing
