@@ -40,3 +40,5 @@
 # Support loading config from multiple files with later overriding earlier
 
 # Improve error message when the required env var is not set
+
+# Refactor the helper to accept an optional callback for progress
