@@ -60,3 +60,6 @@
 
 ## 2021-10-16
 - Fix the encoding issue when reading config files with non-ASCII
+
+## 2021-10-22
+- Simplify the auth flow by using a single token source
