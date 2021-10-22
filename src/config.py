@@ -28,3 +28,5 @@
 # Improve the default config so it works out of the box for dev
 
 # Bump the library version and pin the dependency in requirements
+
+# Improve the setup script to check for required tools before running
