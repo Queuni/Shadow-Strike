@@ -26,3 +26,5 @@
 # Implement fallback to default value when config key is missing
 
 # Improve the default config so it works out of the box for dev
+
+# Bump the library version and pin the dependency in requirements

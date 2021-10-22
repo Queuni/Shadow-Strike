@@ -85,3 +85,5 @@ Additional use of Unity IK rigging and HDRP (sky and volumetric fog).
 - Handle the case when the config file exists but is not readable
 
 - Add a smoke test that runs in CI to catch obvious regressions
+
+- Adjust default timeout value to prevent premature connection drops
