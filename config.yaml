@@ -30,3 +30,5 @@
 # Improve the default config so it works out of the box for dev
 
 # Improve test coverage for the helpers module to above 90%
+
+# Add a smoke test that runs in CI to catch obvious regressions

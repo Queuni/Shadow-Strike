@@ -68,3 +68,5 @@
 # Bump version to 1.2.0 and add changelog entry for the new features
 
 # Support loading config from multiple files with later overriding earlier
+
+# Implement fallback to default value when config key is missing
