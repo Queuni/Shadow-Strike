@@ -52,3 +52,5 @@
 # Remove the unused parameter that was left from an old refactor
 
 # Improve the error recovery when the database connection is lost
+
+# Add a small delay between retries to avoid thundering herd

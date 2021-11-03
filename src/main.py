@@ -70,3 +70,5 @@
 # Support loading config from multiple files with later overriding earlier
 
 # Implement fallback to default value when config key is missing
+
+# Implement proper cleanup of resources when the process receives SIGTERM
