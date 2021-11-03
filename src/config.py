@@ -32,3 +32,5 @@
 # Improve the setup script to check for required tools before running
 
 # Support passing secrets via a separate file for security
+
+# Refactor the parser to use a proper state machine instead of regex
