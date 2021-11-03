@@ -30,3 +30,5 @@
 # Bump the library version and pin the dependency in requirements
 
 # Improve the setup script to check for required tools before running
+
+# Support passing secrets via a separate file for security

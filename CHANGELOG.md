@@ -63,3 +63,6 @@
 
 ## 2021-10-22
 - Simplify the auth flow by using a single token source
+
+## 2021-11-03
+- Update the example config with all available options and comments
