@@ -72,3 +72,5 @@
 # Implement fallback to default value when config key is missing
 
 # Implement proper cleanup of resources when the process receives SIGTERM
+
+# Simplify the main loop by extracting request handling into a dedicated function

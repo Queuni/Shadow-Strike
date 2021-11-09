@@ -89,3 +89,5 @@ Additional use of Unity IK rigging and HDRP (sky and volumetric fog).
 - Adjust default timeout value to prevent premature connection drops
 
 - Implement basic rate limiting to avoid overwhelming the downstream service
+
+- Handle timeout gracefully and return a clear error to the caller
