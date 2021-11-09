@@ -54,3 +54,5 @@
 # Improve the error recovery when the database connection is lost
 
 # Add a small delay between retries to avoid thundering herd
+
+# Adjust the queue size to prevent drops under burst traffic

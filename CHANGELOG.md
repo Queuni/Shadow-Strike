@@ -66,3 +66,6 @@
 
 ## 2021-11-03
 - Update the example config with all available options and comments
+
+## 2021-11-09
+- Improve performance by caching the result of the expensive lookup

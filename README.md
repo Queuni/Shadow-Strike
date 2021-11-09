@@ -87,3 +87,5 @@ Additional use of Unity IK rigging and HDRP (sky and volumetric fog).
 - Add a smoke test that runs in CI to catch obvious regressions
 
 - Adjust default timeout value to prevent premature connection drops
+
+- Implement basic rate limiting to avoid overwhelming the downstream service
