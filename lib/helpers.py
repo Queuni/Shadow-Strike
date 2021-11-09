@@ -56,3 +56,5 @@
 # Add a small delay between retries to avoid thundering herd
 
 # Adjust the queue size to prevent drops under burst traffic
+
+# Bump the tool version and update the pre-commit hook config
