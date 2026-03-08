@@ -1,5 +1,7 @@
 # Shadow Strike
 
+![Shadow Strike](Assets/shadow-strike-banner.png)
+
 A 3D stealth-action Unity game inspired by classic ninja titles. Built with clean architecture and scalability in mind.
 
 ---
@@ -48,46 +50,3 @@ Additional use of Unity IK rigging and HDRP (sky and volumetric fog).
 - `Assets/WeaponSystem` — Melee, throwing, and firearm logic
 - `Assets/!Tools` — Wave controller, weapon adder, sound manager
 - `Assets/Scenes` — Game and menu scenes
-
-
-- Adjust the default concurrency limit based on load test results
-
-- Handle the duplicate key case by merging the values instead of failing
-
-- Bump version to 1.2.0 and add changelog entry for the new features
-
-- Simplify the auth flow by using a single token source
-
-- Handle the partial write case and retry the remaining bytes
-
-- Fix the memory leak in the long-running worker process
-
-- Remove redundant check that was already covered by the validator
-
-- Implement retry logic for the API client when the remote returns 5xx
-
-- Clean up debug print statements before the release
-
-- Handle the partial write case and retry the remaining bytes
-
-- Correct the docstring to match the actual behavior of the function
-
-- Clean up debug print statements before the release
-
-- Improve test coverage for the helpers module to above 90%
-
-- Correct the default value for the feature flag in production
-
-- Support passing options through the config file as well as CLI
-
-- Clean up unused imports and fix formatting to match the project style guide
-
-- Handle the case when the config file exists but is not readable
-
-- Add a smoke test that runs in CI to catch obvious regressions
-
-- Adjust default timeout value to prevent premature connection drops
-
-- Implement basic rate limiting to avoid overwhelming the downstream service
-
-- Handle timeout gracefully and return a clear error to the caller
