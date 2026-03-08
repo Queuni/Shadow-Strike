@@ -1,6 +1,6 @@
 # Shadow Strike
 
-![Shadow Strike](Assets/shadow-strike-banner.png)
+![Shadow Strike](./screenshot.png)
 
 A 3D stealth-action Unity game inspired by classic ninja titles. Built with clean architecture and scalability in mind.
 
